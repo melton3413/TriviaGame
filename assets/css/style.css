@@ -1,0 +1,28 @@
+.jumbotron {
+	/* background-image: url("LEGO-Marvel-Avengers.jpg");*/
+	width: 100%;
+	height: 220px;
+	color: black;
+}
+.btn-primary,.reset {
+	background-color: #202364;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+	padding: 10px;
+}
+.btn-primary:hover, .reset:hover {
+	background-color: red;
+}
+.container {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+	height: 100%;
+	width: 700px;
+}
+.thisChoice:hover {
+	background-color: #202364;
+	color: white;
+	padding: 0.5px;
+}
